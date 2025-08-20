@@ -1,3 +1,4 @@
+*soll nicht mehr Prüfungsrelevant sein. 10/2024
 ---
 title: "Kanban"
 date: 2022-08-24T23:02:36-06:00
